@@ -1,0 +1,87 @@
+.header {
+    background-color: white;
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    margin-left: -8px;
+}
+.CName {
+    color: #3f5437;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.menu {
+    font-size: 20px;
+    margin-left: 60px;
+    text-decoration: none;
+    color: #848484;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu1 {
+    font-size: 20px;
+    margin-left: 70px;
+    text-decoration: none;
+    color: #848484;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.srcimg {
+    margin-left: 560px;
+}
+.accimg {
+    margin-left: 50px;
+}
+.srcimgimg {
+    width: 20px;
+    height: auto;
+}
+.buangan {
+    background-color: blue;
+    width: 1px;
+    height: 1px;
+    margin-top: -10px;
+}
+.ContactForm {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 150px;
+    border-radius: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Contact {
+    margin-left: 170px;
+    padding-top: 10px;
+}
+.input {
+    height: 30px;
+    border-radius: 10px;
+    background-color: #d3ffbf;
+    border: none;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.inputtxt {
+    height: 150px;
+    border-radius: 10px;
+    background-color: #d3ffbf;
+    border: none;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.button {
+    background-color: #8aa77d;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    margin-left: 205px;
+    margin-top: 30px;
+}
